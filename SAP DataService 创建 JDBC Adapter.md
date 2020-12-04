@@ -36,4 +36,4 @@
 
 ### Designer 应用 Adapter 连接数据源
 
-![image-20201204090319468](https://raw.githubusercontent.com/Zhang-Yida/PictureBed/main/imgs/image-20201204090319468.png)
+![image-20201204090319468](http://img.yidalab.top/image-20201204090319468-20201204115719464.png)
